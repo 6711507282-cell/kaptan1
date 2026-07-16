@@ -1,0 +1,6 @@
+{
+  "name": "Game Launcher with Controls Customization",
+  "description": "A full-screen game launcher with animated Thai logo, control customization, and interactive game test mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
